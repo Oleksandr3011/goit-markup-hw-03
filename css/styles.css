@@ -117,13 +117,13 @@ button {
     margin-left: auto;
 }
 
+.auth-nav-item:not(:first-child) {
+    margin-left: 50px;
+}
+
 .auth-nav-item {
     padding-top: 32px;
     padding-bottom: 32px;
-}
-
-.auth-nav-item:not(:first-child) {
-    margin-left: 50px;
 }
 
 .site-nav-link,
