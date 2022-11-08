@@ -35,6 +35,7 @@ ul {
     padding: 0;
 }
 
+
 *,
 *::before,
 *::after {
@@ -234,6 +235,7 @@ button {
     line-height: 42px;
     text-align: center;
     letter-spacing: 0.03em;
+    padding: 50px 0;
 }
 
 .work-fotos {
@@ -248,8 +250,8 @@ button {
 
 /* Our team */
 .section {
-    padding-bottom: 95px;
-    padding-top: 95px;
+    padding-bottom: 94px;
+    padding-top: 94px;
 }
 
 .best {
